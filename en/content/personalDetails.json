@@ -1,8 +1,0 @@
-{
-    "personalDetails": {
-        "pageHeading": "Personal details",
-        "pageDescription": "Please enter your personal details below.",
-        "submitButton": "Save",
-        "cancelButton": "Cancel"
-    }
-}

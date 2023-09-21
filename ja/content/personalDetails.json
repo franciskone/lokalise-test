@@ -1,8 +1,0 @@
-{
-    "personalDetails": {
-        "pageHeading": "個人情報",
-        "pageDescription": "以下に個人情報をご入力ください。",
-        "submitButton": "保存",
-        "cancelButton": "消去"
-    }
-}
