@@ -1,0 +1,8 @@
+{
+    "personalDetails": {
+        "pageHeading": "Dati personali",
+        "pageDescription": "Inserisci i tuoi dati personali qui sotto.",
+        "submitButton": "salva",
+        "cancelButton": "Eliminare"
+    }
+}
