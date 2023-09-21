@@ -1,0 +1,8 @@
+{
+    "personalDetails": {
+        "pageHeading": "个人资料",
+        "pageDescription": "请在下面输入您的个人详细信息。",
+        "submitButton": "节省",
+        "cancelButton": "删除"
+    }
+}

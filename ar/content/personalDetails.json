@@ -1,0 +1,8 @@
+{
+    "personalDetails": {
+        "pageHeading": "تفاصيل شخصية",
+        "pageDescription": "الرجاء إدخال بياناتك الشخصية أدناه.",
+        "submitButton": "يحفظ",
+        "cancelButton": "يمسح"
+    }
+}

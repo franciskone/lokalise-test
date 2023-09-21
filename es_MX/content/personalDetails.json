@@ -1,0 +1,8 @@
+{
+    "personalDetails": {
+        "pageHeading": "Detalles personales",
+        "pageDescription": "Por favor ingrese sus datos personales a continuación.",
+        "submitButton": "ahorrar",
+        "cancelButton": "Borrar"
+    }
+}
